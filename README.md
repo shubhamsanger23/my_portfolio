@@ -1,4 +1,4 @@
-# 📊 Business Analyst Portfolio - Shubham Sanger
+# 📊 Shubham Sanger
 
 Welcome to my professional Business Analyst portfolio! This GitHub repository showcases my skills, certifications, projects, and experience as I pursue a career in Business Analysis, Project Management, and Business Development.
 
@@ -6,7 +6,7 @@ Welcome to my professional Business Analyst portfolio! This GitHub repository sh
 
 ## 👤 About Me
 
-Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong foundation in data analysis, project management, and business intelligence. I bring a diverse background in Computer Engineering and am currently pursuing an MBA in Finance.
+Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong foundation in data analysis, project management, and business intelligence. I bring a diverse skill set in technology and am currently pursuing an MBA in Business Analytics.
 
 ---
 
@@ -36,9 +36,7 @@ Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong found
 - Google Project Management Professional Certificate  
 - Google Business Intelligence  
 - Professional Skills for the Workplace – UC Davis  
-- Data Analysis with R Programming – Google  
-- Advanced Excel Tutorial – Elearnmarkets  
-- Excel Basics for Data Analysis – IBM  
+- Data Analysis with R Programming – Google      
 - Agile and SCRUM – MTF Institute
 
 ---
@@ -56,20 +54,11 @@ Hi, I'm **Shubham Sanger**, an aspiring **Business Analyst** with a strong found
 
 ## 📫 Contact Me
 
-- 📧 Email: [YourEmail@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/shubhamsanger](https://linkedin.com/in/shubhamsanger)  
-- 🌐 Portfolio Website: [Optional – If you have one]  
+- 📧 Email: [pk3667100@gmail.com]  
+- 💼 LinkedIn: [www.linkedin.com/in/itsshubhamsanger](https://www.linkedin.com/in/itsshubhamsanger/)  
 
 ---
 
-## 🚀 How to Use This Repo
-
-This repository serves as a dynamic resume. Feel free to explore:
-
-- `projects/` folder – contains case studies and dashboards  
-- `certifications/` folder – holds PDF proof of my certifications  
-- `resume.pdf` – downloadable copy of my CV  
-- `README.md` – this page
 
 ---
 
